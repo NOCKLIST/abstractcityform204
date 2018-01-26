@@ -1,4 +1,4 @@
-![](http://thenocklist.com/php/img/works/11.jpg)
+![](http://thenocklist.com/php/img/works/11.png)
 
 [LIVE DEMO](http://thenocklist.com/php/urban2/signon.html)
 
